@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=3V3 Pin=C?-2
+Removed Member From Class: ClassName=E22 FeatherWing Member=C?
+Added Component: Designator=C1(CAPC2013X135X45ML10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61E106KA73L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Member To Class: ClassName=E22 FeatherWing Member=Component C1 10uF
+Added Room: Name=E22 FeatherWing

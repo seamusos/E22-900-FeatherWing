@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DIO1 Pin=P2-4
+Removed Pin From Net: NetName=BUSY Pin=P2-5
+Removed Pin From Net: NetName=NRST Pin=P2-6
+Removed Pin From Net: NetName=NSS Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=NSS Pin=P2-4
+Added Pin To Net: NetName=NRST Pin=P2-5
+Added Pin To Net: NetName=BUSY Pin=P2-6
+Added Pin To Net: NetName=DIO1 Pin=P2-7
+Added Room: Name=E22 FeatherWing

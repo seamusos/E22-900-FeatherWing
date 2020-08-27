@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=DIO2 Pin=P2-10
+Added Pin To Net: NetName=DIO2 Pin=U1-8
+Added Net: Name=DIO2
+Added Pin To Net: NetName=RXEN Pin=P2-8
+Added Pin To Net: NetName=RXEN Pin=U1-6
+Added Net: Name=RXEN
+Added Pin To Net: NetName=TXEN Pin=P2-9
+Added Pin To Net: NetName=TXEN Pin=U1-7
+Added Net: Name=TXEN
+Added Room: Name=E22 FeatherWing

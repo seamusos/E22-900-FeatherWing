@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RXEN Pin=P1-5
+Removed Pin From Net: NetName=TXEN Pin=P1-6
+Removed Pin From Net: NetName=DIO2 Pin=P1-7
+Added Pin To Net: NetName=RXEN Pin=P2-8
+Added Pin To Net: NetName=TXEN Pin=P2-9
+Added Pin To Net: NetName=DIO2 Pin=P2-10
+Added Room: Name=E22 FeatherWing
